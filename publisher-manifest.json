@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "47392b4ef91dd5bd7f4ad32b",
+  "owner": "qujuvbnxk",
+  "repo": "page-7a766e20bd2008c0b710c717",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7a766e20bd2008c0b710c717",
+      "a": "速鹰",
+      "b": "clash verge服务商官网",
+      "entity": "速鹰",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dae8e4304742c10a64c4e3c7aad13520cc95f7bcf3ff2cbb1d7d2a39c05caaf1",
+      "content": {
+        "primary_entity": "速鹰",
+        "keyword1": "速鹰",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选适配客户端，完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "进入速鹰套餐页面，根据设备数量与流量需求选定版本。",
+          "AI_CLOSING_TITLE": "选好套餐即刻接入",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供清晰说明。基础版支持 3 台设备与每月 100GB 流量，旗舰版覆盖 5 台设备与 300GB 流量，团队版面向多设备场景提供 20 台设备与 1000GB 流量。不同客户端按系统对应配置，订阅导入后即可在对应设备使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量周期与节点类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用重点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按设备数选定。",
+          "AI_FEATURE_TEXT_2": "月付或年付均可，年付方案折算后单月成本更低。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，团队版提供 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TITLE_3": "节点类型",
+          "AI_GUIDE_INTRO": "选定套餐后，参照客户端文档导入订阅即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "速鹰提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与流量需求。按客户端文档配置订阅后，可在对应设备上使用节点服务，旗舰版与团队版针对流媒体和游戏场景提供专线与高带宽节点。",
+          "AI_HERO_SUBTITLE": "速鹰节点加速服务",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付方案折算后月费更低",
+          "AI_HIGHLIGHT_3": "旗舰版提供 IPLC 专线节点",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版中选择对应套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备上限、流量额度与节点类型是否符合使用场景。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅，在目标设备上完成连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "速鹰多设备加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "速鹰支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "速鹰支持在 Windows、macOS、iOS 和 Android 等常见操作系统上使用，具体可通过客户端订阅方式配置。不同套餐支持的同时在线设备数量不同，基础版3台，旗舰版5台，团队版20台。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "购买套餐后，你会获得一个订阅链接。在所选客户端中粘贴该链接并更新订阅即可。具体步骤请参考客户端的订阅导入说明。",
+          "AI_FAQ_QUESTION_3": "套餐流量用完了怎么办？",
+          "AI_FAQ_ANSWER_3": "当月流量用尽后，可以等到下个计费周期自动重置，也可以随时升级到更高流量的套餐，升级后立即生效。",
+          "AI_FAQ_QUESTION_4": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_4": "支持更换套餐。你可以在账户内操作升级或降级，差价会按剩余天数折算，具体以购买时页面显示为准。",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "年付和月付功能相同，但年付更优惠。例如基础版月付15元，年付仅需150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "584fb9327d9481be43ce17d22cb8e862c6edac1c83984d46599d416b0e51c593",
+    "sitemap.xml": "dcf23b66dc960b1832f652580aedbbad5656fdd5b8f132c45ab7673e020e8e24",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c6902eae1b72e5ebeb24af8cde74643ca8966c5f18b55e421a4a37a1b5bd4a91"
+}
